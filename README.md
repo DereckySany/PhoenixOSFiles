@@ -1,5 +1,3 @@
-# ShellTestes
-Anotações Shell
+Arquivos para customizar o PhoenixOS
 
-Anotações e testes, aprendendo com ***Luiz Alberto*** em [Aulas Shell Script do zero](https://linuxdicasesuporte.blogspot.com/2013/09/aulas-shell-script-do-zero-com-luiz.html).
-O melhor site e tutorial para aprender Shell Script
+ramdisk_PhoenixVIP-OFF.tar.gz = Arquivo ramdisk customizado com  o VIP desativado
